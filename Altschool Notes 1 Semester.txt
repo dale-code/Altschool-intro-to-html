@@ -1,0 +1,46 @@
+It's not about chasing the newest buzzwords but performing exceptionally in your current position.
+
+Technical skills to learn
+JavaScript, Python & Linux
+
+Non-Technical Skills
+Project management(Technical project manager)
+
+Month 1 Week 3
+
+How the internet works.
+
+The web involves two things the client and the server
+
+Document Object Model(DOM) is basically all the contents on a webpage and this includes paragraphs, videos, texts, images e.t.c.
+
+An IP address is how a computer is located on the internet. A DNS (Domain Naming service) is a ledger system that contains all domains(www.togo.net, teni.com) which are mapped to an IP address. Anyone connected to the internet is given a unique IP address.
+
+The internet has a protocol for communication btw the client and server and this role is played by the Hypertext Transfer Protocol(HTTP(S)Secure).
+
+In 1989
+
+
+Slide 4
+Study Client-Server Architecture
+One provides resource, the other consumes it.
+
+Slide 5
+
+
+Slide 7: Three Core Web Technologies.
+
+HTML: Structure
+	Defines the content and organization (Skeleton)
+	The "Noun" of a webpage
+
+CSS: Presentation
+	Controls appearance (Flesh)
+	The "Adjectives" of a webpage
+
+JavaScript: Behavior
+	Adds interactivity and functionality (Functions)
+	The "Verb" of a webpage
+
+Attributes are defined in the opening tags of an html element
+
