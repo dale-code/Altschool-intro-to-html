@@ -44,3 +44,95 @@ JavaScript: Behavior
 
 Attributes are defined in the opening tags of an html element
 
+Learning HTML
+The purpose of HTML is to apply meaning to texts on a webpage and not presentation
+
+Tags
+Tags surround content and applies meaning to it.
+
+<!DOCTYPE html>
+<html>
+<body>
+	This is my first web page
+</body>
+</html>
+
+
+<!DOCTYPE html>, is a document type declaration and it lets the browser know which flavor of HTML you’re using (HTML5, in this case).
+<html> is the opening tag that kicks things off and tells the browser that everything between that and the </html> closing tag is an HTML document. 
+The content between <body> and </body> is the main content of the document that will appear in the browser window.
+
+Attributes
+Attributes are extra bits of information. 
+Attributes appear inside the opening tag and their values sit inside quotation marks. 
+They look something like <tag attribute="value">Margarine</tag>.
+
+Page Titles
+This includes a <head></head> and a <title></title> tag
+
+Paragraphs
+<p></p>
+
+Headings
+<h1, h2, h3, h4, h5, h6/>. Headers should be used in the order it is listed
+
+Lists
+There are three types of list; unordered lists, ordered lists and definition lists.
+
+Unordered lists are used for non-sequential lists in order words bulleted lists. As it implies not in order. <ul></ul>
+
+Ordered lists are used for numbers, which implies it's in order. <ol></ol>
+
+Links
+
+An anchor tag (a) is used to define a link, but you also need to add something to the anchor tag — the destination of the link. It allows us to navigate inside a website
+if you havea contact page or an about us page.
+
+<section>
+		<!--Internal navigation -->
+		<a href="./">Home</a>
+		<a href="./About/">About Page</a>
+
+		<!-- External navigation-->
+		 <a href="https://web.facebook.com/?_rdc=1&_rdr#" target="_blank">My Facebook Page</a>
+	</section>
+
+
+Img tag
+	 	<img src= "/assests/images/html.png">
+
+Audio tag
+ <!-- Embedding audio in html-->
+
+		 <audio src="/Audio/Min. Faith Owolabi Chant 1.m4a" controls></audio>
+
+Video tag
+ <!--Embedding video in html-->
+
+		 <video src="/Video/Iyan and egusi.mp4" controls></video>
+
+Downloads
+
+		 <!-- Download images in html-->
+		 <a href="./assests/images/HTML.png" download >Download Image</a>
+
+Nesting Elements
+
+ 
+
+Empty Elements
+
+ 	<img src= "/assests/images/html.png"> this is an exmaple of eompty element. Elements without texts 
+	are pften referred to as empty elements
+
+Form Elements & Select Elements
+
+
+ 
+CSS CSS CSS CSS CSS CSS CSS CSS CSS
+
+
+
+
+
+
